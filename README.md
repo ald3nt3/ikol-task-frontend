@@ -1,10 +1,9 @@
-# ikol-task
+# Ikol recruitment taks - Frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+Task: Create a web app that calculates the distance between two geographic points with the following assumptions:
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- App shows a form that allows the user to input coordinates of two geographic points.
+- As a result the app returns the distance between the two points in meters and kilometers.
 
 ## Customize configuration
 
